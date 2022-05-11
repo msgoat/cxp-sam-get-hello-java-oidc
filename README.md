@@ -1,4 +1,4 @@
-# cxp-sam-get-hello-java-http iteration 1
+# cxp-sam-get-hello-java-oidc iteration 3
 
 This is the third iteration of a Hello World sample demonstrating the development of Lambda functions with AWS SAM using KeyCloak as an Open ID Connect provider
 to authorize invokes of a function.
