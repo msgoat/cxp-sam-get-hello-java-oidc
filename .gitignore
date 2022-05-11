@@ -49,6 +49,7 @@ mvnw.cmd
 
 # MAVEN build artifacts
 target/
+dependency-reduced-pom.xml
 
 # SAM build artifacts
 .aws-sam
